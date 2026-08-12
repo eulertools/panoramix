@@ -1,3 +1,9 @@
+> **This repository is archived.** Source of truth moved.
+>
+> Destination: https://github.com/tebayoso/eulertools/tree/main/tools/panoramix
+>
+> Date: 2026-08-12
+
 ## Important
 
 Palkeo is maintaining a more up to date for of Panoramix. Be sure to check it out:
